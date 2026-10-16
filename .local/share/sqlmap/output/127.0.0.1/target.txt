@@ -1,0 +1,1 @@
+http://127.0.0.1/testphp/listproducts.php?cat=1 (GET)  # /usr/bin/sqlmap -u http://127.0.0.1/testphp/listproducts.php?cat=1 --batch --dbs --random-agent
